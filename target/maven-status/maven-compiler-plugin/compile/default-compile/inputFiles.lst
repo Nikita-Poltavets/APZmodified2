@@ -1,0 +1,16 @@
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\domain\Role.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\service\MailSender.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\controller\MainController.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\service\UserService.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\repos\UserRepo.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\Application.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\config\EncriptionConfig.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\domain\Door.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\config\MailConfig.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\repos\DoorRepo.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\controller\RegistrationController.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\controller\ControllerUtils.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\domain\User.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\controller\UserController.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\config\WebSecurityConfig.java
+D:\Java Project 2\APZ(modify)\src\main\java\com\example\APZ\config\MvcConfig.java
